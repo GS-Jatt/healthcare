@@ -1098,6 +1098,9 @@ section {
 --------------------------------------------------------------*/
 .departments {
   overflow: hidden;
+  & ul{
+    text-align: center;
+  }
 }
 
 .departments .nav-tabs {

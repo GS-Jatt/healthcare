@@ -23,7 +23,7 @@ function Testimonials() {
                             <div className="testimonial-wrap">
                                 <div className="testimonial-item">
                                     <img
-                                        src="src/assets/img/testimonials/testimonials-1.jpg"
+                                        src="img/testimonials/testimonials-1.jpg"
                                         className="testimonial-img"
                                         alt=""
                                     />
@@ -47,7 +47,7 @@ function Testimonials() {
                             <div className="testimonial-wrap">
                                 <div className="testimonial-item">
                                     <img
-                                        src="src/assets/img/testimonials/testimonials-2.jpg"
+                                        src="img/testimonials/testimonials-2.jpg"
                                         className="testimonial-img"
                                         alt=""
                                     />
@@ -71,7 +71,7 @@ function Testimonials() {
                             <div className="testimonial-wrap">
                                 <div className="testimonial-item">
                                     <img
-                                        src="src/assets/img/testimonials/testimonials-3.jpg"
+                                        src="img/testimonials/testimonials-3.jpg"
                                         className="testimonial-img"
                                         alt=""
                                     />
@@ -96,7 +96,7 @@ function Testimonials() {
                             <div className="testimonial-wrap">
                                 <div className="testimonial-item">
                                     <img
-                                        src="src/assets/img/testimonials/testimonials-4.jpg"
+                                        src="img/testimonials/testimonials-4.jpg"
                                         className="testimonial-img"
                                         alt=""
                                     />
@@ -121,7 +121,7 @@ function Testimonials() {
                             <div className="testimonial-wrap">
                                 <div className="testimonial-item">
                                     <img
-                                        src="src/assets/img/testimonials/testimonials-5.jpg"
+                                        src="img/testimonials/testimonials-5.jpg"
                                         className="testimonial-img"
                                         alt=""
                                     />

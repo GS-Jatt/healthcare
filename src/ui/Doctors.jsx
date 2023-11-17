@@ -12,7 +12,7 @@ function Doctors() {
 
           <div className="col-lg-6">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="src/assets/img/doctors/doctors-1.jpg" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="img/doctors/doctors-1.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>Walter White</h4>
                 <span>Chief Medical Officer</span>
@@ -29,7 +29,7 @@ function Doctors() {
 
           <div className="col-lg-6 mt-4 mt-lg-0">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="src/assets/img/doctors/doctors-2.jpg" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="img/doctors/doctors-2.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>Sarah Jhonson</h4>
                 <span>Anesthesiologist</span>
@@ -46,7 +46,7 @@ function Doctors() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="src/assets/img/doctors/doctors-3.jpg" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="img/doctors/doctors-3.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>William Anderson</h4>
                 <span>Cardiology</span>
@@ -63,7 +63,7 @@ function Doctors() {
 
           <div className="col-lg-6 mt-4">
             <div className="member d-flex align-items-start">
-              <div className="pic"><img src="src/assets/img/doctors/doctors-4.jpg" className="img-fluid" alt=""/></div>
+              <div className="pic"><img src="img/doctors/doctors-4.jpg" className="img-fluid" alt=""/></div>
               <div className="member-info">
                 <h4>Amanda Jepson</h4>
                 <span>Neurosurgeon</span>
